@@ -1,0 +1,17 @@
+[
+  {
+    "ime": "Pera Peric",
+    "visina": 202,
+    "timovi": ["Tim A", "Tim B"]
+  },
+  {
+    "ime": "Laza Lazic",
+    "visina": 192,
+    "timovi": ["Tim A"]
+  },
+  {
+    "ime": "Mika Mikic",
+    "visina": 199,
+    "timovi": ["Tim B", "Tim C"]
+  }
+]
