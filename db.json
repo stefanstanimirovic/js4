@@ -1,17 +1,14 @@
 [
   {
-    "ime": "Pera Peric",
-    "visina": 202,
-    "timovi": ["Tim A", "Tim B"]
+    "id": 1,
+    "title": "Post 1"
   },
   {
-    "ime": "Laza Lazic",
-    "visina": 192,
-    "timovi": ["Tim A"]
+    "id": 2,
+    "title": "Post 2"
   },
   {
-    "ime": "Mika Mikic",
-    "visina": 199,
-    "timovi": ["Tim B", "Tim C"]
+    "id": 3,
+    "title": "Post 3"
   }
 ]
